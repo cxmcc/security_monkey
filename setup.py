@@ -60,7 +60,7 @@ setup(
         'boto3>=1.4.2',
         'botocore>=1.4.81',
         'dpath==1.3.2',
-        'pyyaml==3.11',
+        'pyyaml==5.1',
         'jira==0.32',
         'cloudaux>=1.3.3',
         'joblib>=0.9.4',
